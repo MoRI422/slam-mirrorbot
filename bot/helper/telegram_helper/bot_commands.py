@@ -22,7 +22,7 @@ class _BotCommands:
         self.SpeedCommand = 'speedtest1'
         self.CloneCommand = 'clone1'
         self.CountCommand = 'count1'
-        self.WatchCommand = 'wat
+        self.WatchCommand = 'wat'
         self.TarWatchCommand = 'tarwat'
         self.ZipWatchCommand = 'zipwat'
         self.QbMirrorCommand = 'qbmir'
